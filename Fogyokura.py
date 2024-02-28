@@ -18,4 +18,5 @@ for i in range(len(tömeg)):
         #print(tömeg[i-1], '->', tömeg[i])
 print('A tomege', xd, 'esetben nott egyik hetrol a masikra.')
 
+
         
